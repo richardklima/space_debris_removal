@@ -1,6 +1,6 @@
 number of experiments = 1
-time horizon = 15
+time horizon = 100
 Russia removes = 0
-US removes = 0
+US removes = 1
 China removes = 0
 EU removes = 0
