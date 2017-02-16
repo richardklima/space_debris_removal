@@ -1,4 +1,5 @@
-# space_debris_removal
+# Space debris removal simulation model
+
 Space debris removal model based on PyKEP scientific library. Developed within ESA Ariadna study project (University of Liverpool and European Space Agency cooperation).  
 
 Authors: Richard Klima, Daan Bloembergen, Rahul Savani, Karl Tuyls, Daniel Hennes and Dario Izzo.  
