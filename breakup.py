@@ -58,7 +58,7 @@ def _Am(d):
         sigma2 = 0.3
 
     N1 = np.random.normal(mu1, sigma1, size=(1,1))
-    N2 = np.random.normal(mu2, sigma1, size=(1,1))
+    N2 = np.random.normal(mu2, sigma2, size=(1,1))
     return float(10. ** (alpha * N1 + (1-alpha) * N2))
 
 
